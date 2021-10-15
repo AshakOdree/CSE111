@@ -1,0 +1,73 @@
+
+Following is the link to submit your Quiz exam:
+
+https://forms.gle/9UmBAM6MRfVMqgW27
+
+𝐏𝐋𝐄𝐀𝐒𝐄 𝐍𝐎𝐓𝐄 𝐓𝐇𝐀𝐓 𝐘𝐎𝐔 𝐂𝐀𝐍 𝐔𝐏𝐋𝐎𝐀𝐃 𝐎𝐍𝐋𝐘 𝐎𝐍E 𝐢𝐩𝐲𝐧𝐛 𝐎𝐑  𝐏𝐃𝐅 𝐅𝐈𝐋𝐄.
+
+Your exam started at Tue Nov 17 2020 18:24:02 GMT+0600 (Bangladesh Standard 
+Time) you have 30 𝐦𝐢𝐧𝐮𝐭𝐞𝐬 to submit this exam.
+
+𝐍𝐎 𝐒𝐔𝐁𝐌𝐈𝐒𝐒𝐈𝐎𝐍𝐒 𝐖𝐈𝐋𝐋 𝐁𝐄 𝐀𝐂𝐂𝐄𝐏𝐓𝐄𝐃 𝐀𝐅𝐓𝐄𝐑 
+7:𝟎𝟎 𝐏𝐌 𝐑𝐄𝐆𝐀𝐑𝐃𝐋𝐄𝐒𝐒 𝐎𝐅 𝐖𝐇𝐄𝐍 𝐘𝐎𝐔 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐘𝐎𝐔𝐑 𝐄𝐗𝐀𝐌
+
+Regards
+CSE111 team
+
+Following is your exam question:
+------------------------------------------
+𝐈𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧: 𝐘𝐨𝐮 𝐦𝐮𝐬𝐭 𝐬𝐮𝐛𝐦𝐢𝐭 𝐚 𝐩𝐝𝐟 𝐟𝐢𝐥𝐞 𝐚𝐬 𝐚𝐧𝐬𝐰𝐞𝐫 𝐬𝐜𝐫𝐢𝐩𝐭. 𝐄𝐢𝐭𝐡𝐞𝐫 𝐜𝐨𝐧𝐯𝐞𝐫𝐭 𝐲𝐨𝐮𝐫 𝐢𝐩𝐲𝐧𝐛 𝐧𝐨𝐭𝐞𝐛𝐨𝐨𝐤 𝐭𝐨 𝐩𝐝𝐟 𝐣𝐮𝐬𝐭 𝐛𝐲 𝐩𝐫𝐞𝐬𝐬𝐢𝐧𝐠 𝐜𝐭𝐫𝐥+𝐩 𝐚𝐧𝐝 𝐬𝐚𝐯𝐞 𝐨𝐫 𝐰𝐫𝐢𝐭𝐞 𝐲𝐨𝐮𝐫 𝐜𝐨𝐝𝐞 𝐨𝐧 𝐩𝐚𝐩𝐞𝐫 𝐚𝐧𝐝 𝐬𝐜𝐚𝐧. 𝐅𝐨𝐫 𝐚𝐧𝐲 𝐭𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐢𝐬𝐬𝐮𝐞𝐬 𝐯𝐢𝐬𝐢𝐭 𝐭𝐡𝐢𝐬 𝐥𝐢𝐧𝐤: 
+https://meet.google.com/czw-akez-ziv
+
+
+𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭 𝐭𝐡𝐞 𝐝𝐞𝐬𝐢𝐠𝐧 𝐨𝐟 𝐭𝐡𝐞 "𝐏𝐥𝐚𝐲𝐞𝐫𝐄𝐚𝐫𝐧𝐢𝐧𝐠" 𝐜𝐥𝐚𝐬𝐬 𝐬𝐨 𝐭𝐡𝐚𝐭 𝐭𝐡𝐞 𝐠𝐢𝐯𝐞𝐧 𝐨𝐮𝐭𝐩𝐮𝐭 𝐢𝐬 𝐩𝐫𝐨𝐝𝐮𝐜𝐞𝐝 𝐮𝐩𝐨𝐧 𝐞𝐱𝐞𝐜𝐮𝐭𝐢𝐧𝐠 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐜𝐨𝐝𝐞:
+
+# 𝐖𝐫𝐢𝐭𝐞 𝐲𝐨𝐮𝐫 𝐜𝐨𝐝𝐞 𝐡𝐞𝐫𝐞
+
+print("**********************")
+player1 = PlayerEarning('Buffon')
+player1.calculateTotal(250000)
+player1.printDetails()
+
+print("\n**********************")
+player2 = PlayerEarning('Dybala')
+player2.calculateTotal(250000, 31)
+player2.printDetails()
+
+print("\n**********************")
+player3 = PlayerEarning('Cuadrado')
+player3.calculateTotal(250000, 20)
+player3.printDetails()
+
+
+𝐎𝐮𝐭𝐩𝐮𝐭:
+
+**********************
+Player Name: Buffon
+Player Season Earning without bonus: 250000
+Bonus: 0
+Player Season Earning After Bonus: 250000
+
+**********************
+Player Name: Dybala
+Player Season Earning without bonus: 250000
+Bonus: 22500
+Player Season Earning After Bonus: 272500
+
+**********************
+Player Name: Cuadrado
+Player Season Earning without bonus: 250000
+Bonus: 12500
+Player Season Earning After Bonus: 262500
+
+Note: calculateTotal() method takes either 1 or 2 arguments. It takes 
+earning without bonus as the first argument and number of goals as the 
+second argument. Calculate the bonus only if the number of goals is given 
+(see the hint). If the number of goals is not provided, the bonus is 0. 
+Finally calculate the total after bonus.
+
+Assume only these 2 ways you can call the calculateTotal() method.
+
+Hint:
+If Goal > 30, bonus = (5/100) * earning_without_bonus + 10000
+else, bonus = (5/100) * earning_without_bonus
